@@ -1,0 +1,122 @@
+body{
+  
+  overflow-x: hidden; 
+    background-color:rgb(29, 28, 29);
+}
+.main{
+    background-color:rgb(9, 61, 75);;
+    padding: 10px;
+    height: 550px;
+    width:100%;
+}
+.image{
+    display: block;
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+    height: 8%;
+    border-radius: 25%;
+    border-style: dotted;
+    border-color:rgb(221, 127, 127);
+}
+.Name{
+  padding-top:10px;   
+}
+.link{
+  font-size:45px;
+  margin-left:49%;
+  
+}
+.data{
+  margin-left:35%;
+  font-size:25px;
+  color:white;
+}
+.main1{
+  color:rgb(23, 223, 90);
+  font-size:30px;
+}
+
+table {
+    width: 100%;
+   
+  }
+  
+  th {
+    height: 50px;
+  }
+  table, th,td {
+    border: 1px solid white;
+    border-collapse: collapse;
+}
+.par{
+  width: 100%;
+  background-color: white;
+}
+.named{
+    margin-left:32%;
+    font-size: 50px;
+    background-color: rgb(154, 250, 11);
+   /* margin:auto;
+    /* padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 3px; */
+}
+.dat{
+  color:white;
+  background-color:rgb(83, 80, 80);
+  font-size:22px;
+}
+.headcolor{
+  background-color:rgb(19, 11, 11);
+  color:rgb(23, 223, 90);
+  font-size:23px
+}
+
+.paracolor{
+  font-size: 50px;
+  color:white;
+}
+.other{
+  font-size: 24px;
+  background-color: rgb(83, 80, 80);
+  color:white;
+ 
+}
+.other ul li{
+  color:#b1eaff;
+  justify-content: space-between;
+}
+.other ul li .skill_name{
+  width:25%;
+
+}
+.other ul li .skill_progress{
+  width:60%;
+  margin:0 5px;
+  height:5px;
+  background:#009fd9;
+  position: relative;
+}
+.other ul li .skill_per{
+  width:15%;
+  
+}
+.other ul li .skill_progress span{
+position:absolute;
+top:0;
+left:0;
+height:100%;
+background:#fff;
+}
+.vl{
+  border-left:6px solid red;
+  height:900px;
+  position:absolute;
+  left:49%;
+  margin-top:55.5%;
+  margin-left:-3px;
+  top:0;
+
+}
